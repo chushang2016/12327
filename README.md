@@ -10,7 +10,7 @@
 #   项目资料获取方式
 *   需要资料或者有任何问题的加QQ：2684634017
 
-*   项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=12327
+*   项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=12327
 
 #  项目演示视频：https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/12327/%E5%8A%A8%E6%BC%AB%E4%BA%A4%E6%B5%81%E4%B8%8E%E6%8E%A8%E8%8D%90%E5%B9%B3%E5%8F%B0%E5%BD%95%E5%83%8F.mp4
 
